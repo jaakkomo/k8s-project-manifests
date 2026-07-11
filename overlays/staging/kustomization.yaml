@@ -8,10 +8,10 @@ patches:
 images:
 - name: PROJECT/BROADCASTER
   newName: fallmx/broadcaster
-  newTag: 219d8ad6b89cfcb7f841ad808e3a4f3350a275c7
+  newTag: 97d7713426282f76c15c180c5cfd08154770cc24
 - name: PROJECT/TODO_APP
   newName: fallmx/todo-app
-  newTag: 219d8ad6b89cfcb7f841ad808e3a4f3350a275c7
+  newTag: 97d7713426282f76c15c180c5cfd08154770cc24
 - name: PROJECT/TODO_BACKEND
   newName: fallmx/todo-backend
-  newTag: 219d8ad6b89cfcb7f841ad808e3a4f3350a275c7
+  newTag: 97d7713426282f76c15c180c5cfd08154770cc24
